@@ -3,7 +3,7 @@
 |   프로젝트    |  JS  |  TS  |  [damilog](https://github.com/damilog)  | [holee](https://github.com/hochan222) | 리뷰어님 |
 | :---------- | :--: | :--: | :------: | :----: | :----------: |
 ||||||||||
-| [mobx ToDo]()   | ✅ | - |  [PR]() | [PR]() | |
+| [mobx ToDo](https://github.com/11st-search-lab/mobx-todo)   | ✅ | - |  [PR]() | [PR]() | |
 | [-]()   | - | - |  | | |
 | 🌟 회고록 🌟 | - | - |  |  | - |
 
