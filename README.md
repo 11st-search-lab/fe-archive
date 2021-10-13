@@ -2,7 +2,7 @@
 
 |                                    Discussion                                    | 날짜       |
 | :------------------------------------------------------------------------------: | :--------- |
-| [[Typescript] Type](https://github.com/11st-search-lab/fe-archive/discussions/2) | 2021.10.22 |
+| [Typescript Types](https://github.com/11st-search-lab/fe-archive/discussions/2) | 2021.10.22 |
 
 - 과정 목표
   - typescript에 대한 기본 문법을 익혀 프로그래밍을 한다.
