@@ -8,6 +8,8 @@
   - typescript에 대한 기본 문법을 익혀 프로그래밍을 한다.
   - typescript로 코드 리뷰를 통해 코드 품질을 높인다.
 
+- 규칙 
+  - 매 주 각자 Discussion을 읽어오고 함께 리뷰하는 시간을 가진다. 
 ## 🌱 mobx
 
 |   프로젝트    |  JS  |  TS  |  [damilog](https://github.com/damilog)  | [holee](https://github.com/hochan222) | 리뷰어님 |
