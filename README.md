@@ -1,3 +1,9 @@
+
+## 📎 References
+ [바로가기](https://admitted-map-c7e.notion.site/412ecd26f2084379a455ac363a355dcd?v=ed95831fa1a24022b4c254035e7096bb)
+
+----
+
 ## 🌱 Typescript
 
 |                                    Discussion                                    | 날짜       |
